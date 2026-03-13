@@ -6,6 +6,7 @@ This is a repository maintained for the purpose of tracking my daily coding / im
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Yesy01/Coding-Skill/tree/master/0001-two-sum) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Yesy01/Coding-Skill/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Math
 |  |
@@ -23,4 +24,8 @@ This is a repository maintained for the purpose of tracking my daily coding / im
 |  |
 | ------- |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Yesy01/Coding-Skill/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Yesy01/Coding-Skill/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
