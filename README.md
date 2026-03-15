@@ -11,6 +11,7 @@ This is a repository maintained for the purpose of tracking my daily coding / im
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Yesy01/Coding-Skill/tree/master/0009-palindrome-number) |
 | [1622-fancy-sequence](https://github.com/Yesy01/Coding-Skill/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Yesy01/Coding-Skill/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
