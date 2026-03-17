@@ -7,12 +7,14 @@ This is a repository maintained for the purpose of tracking my daily coding / im
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Yesy01/Coding-Skill/tree/master/0001-two-sum) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Yesy01/Coding-Skill/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Yesy01/Coding-Skill/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Yesy01/Coding-Skill/tree/master/0009-palindrome-number) |
 | [1622-fancy-sequence](https://github.com/Yesy01/Coding-Skill/tree/master/1622-fancy-sequence) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Yesy01/Coding-Skill/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Yesy01/Coding-Skill/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Binary Search
 |  |
@@ -25,6 +27,7 @@ This is a repository maintained for the purpose of tracking my daily coding / im
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Yesy01/Coding-Skill/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Yesy01/Coding-Skill/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
@@ -38,4 +41,16 @@ This is a repository maintained for the purpose of tracking my daily coding / im
 |  |
 | ------- |
 | [1622-fancy-sequence](https://github.com/Yesy01/Coding-Skill/tree/master/1622-fancy-sequence) |
+## Sorting
+|  |
+| ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Yesy01/Coding-Skill/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Yesy01/Coding-Skill/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
+## Prefix Sum
+|  |
+| ------- |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Yesy01/Coding-Skill/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 <!---LeetCode Topics End-->
